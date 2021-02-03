@@ -1,4 +1,3 @@
-#!/bin/bash
 Create a script that creates an alias.
 Create a script that prints hello user, where user is the current Linux user.
 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
@@ -15,4 +14,3 @@ Create a script that prints all possible combinations of two letters, except oo.
 Write a script that prints a number with two decimal places, followed by a new line.
 Write a script that converts a number from base 10 to base 16.
 Write a blog post explaining what are hard and symbolic links on Linux, how to create them, and what is the difference between the two. Use examples to illustrate.
-(why?)
